@@ -1,0 +1,25 @@
+% \usepackage[usenames,dvipsnames]{pstricks}
+% \usepackage{epsfig}
+% \usepackage{pst-grad} % For gradients
+% \usepackage{pst-plot} % For axes
+% \usepackage[space]{grffile} % For spaces in paths
+% \usepackage{etoolbox} % For spaces in paths
+% \makeatletter % For spaces in paths
+% \patchcmd\Gread@eps{\@inputcheck#1 }{\@inputcheck"#1"\relax}{}{}
+% \makeatother
+% 
+\psscalebox{1.0 1.0} % Change this value to rescale the drawing.
+{
+\begin{pspicture}(0,-2.2222223)(6.6666665,2.2222223)
+\psframe[linecolor=black, linewidth=0.04, dimen=outer](4.888889,2.2222223)(1.7777778,-2.2222223)
+\psline[linecolor=black, linewidth=0.04](1.7777778,1.3333334)(0.0,1.3333334)
+\psline[linecolor=black, linewidth=0.04](1.7777778,0.0)(0.0,0.0)
+\psline[linecolor=black, linewidth=0.04](4.888889,1.3333334)(6.6666665,1.3333334)(6.6666665,1.3333334)
+\psline[linecolor=black, linewidth=0.04](4.888889,-1.3333334)(6.6666665,-1.3333334)
+\rput[bl](2.2222223,1.3333334){\(D\)}
+\rput[bl](2.2222223,0.0){CP}
+\rput[bl](4.0,1.3333334){\(Q^n\)}
+\rput[bl](4.0,-1.3333334){\(\overline{Q^n}\)}
+\end{pspicture}
+}
+

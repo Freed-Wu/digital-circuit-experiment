@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:latexdraw="http://latexdraw.sourceforge.net/namespaces/latexdraw" version="1.1" baseProfile="full">
+    <g>
+        <g latexdraw:type="rectangle" id="id1575438688">
+            <rect x="445.4444444444445" y="178.7777777777778" width="153.5555555555556" height="220.22222222222226" latexdraw:borderPos="outer" stroke-width="2.0" stroke="black" fill="none"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id2014318875">
+            <polyline points="444.4444444444445,222.22222222222226 355.5555555555556,222.22222222222226 " stroke-width="2.0" stroke="black" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id201418684">
+            <polyline points="444.4444444444445,288.8888888888889 355.5555555555556,288.8888888888889 " stroke-width="2.0" stroke="black" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id2113087154">
+            <polyline points="444.4444444444445,355.5555555555556 355.5555555555556,355.5555555555556 " stroke-width="2.0" stroke="black" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id1130817440">
+            <polyline points="600.0000000000001,222.22222222222226 688.8888888888889,222.22222222222226 688.8888888888889,222.22222222222226 " stroke-width="2.0" stroke="black" fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id1000145843">
+            <polyline points="600.0000000000001,355.5555555555556 688.8888888888889,355.5555555555556 " stroke-width="2.0" stroke="black" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="text" id="id1391903593" fill="black" latexdraw:position="bl">
+            <text x="466.6666666666667" y="222.22222222222226">\(J\)</text>
+        </g>
+        <g latexdraw:type="text" id="id1129262593" fill="black" latexdraw:position="bl">
+            <text x="466.6666666666667" y="288.8888888888889">CP</text>
+        </g>
+        <g latexdraw:type="text" id="id1118914115" fill="black" latexdraw:position="bl">
+            <text x="466.6666666666667" y="355.5555555555556">\(K\)</text>
+        </g>
+        <g latexdraw:type="text" id="id1469306273" fill="black" latexdraw:position="bl">
+            <text x="555.5555555555557" y="222.22222222222226">\(Q^n\)</text>
+        </g>
+        <g latexdraw:type="text" id="id1528226500" fill="black" latexdraw:position="bl">
+            <text x="555.5555555555557" y="355.5555555555556">\(\overline{Q^n}\)</text>
+        </g>
+    </g>
+    <defs/>
+    <metadata>
+        <latexdraw:metadata>
+            <latexdraw:latexIncludes/>
+            <latexdraw:displayXScale>true</latexdraw:displayXScale>
+            <latexdraw:displayYScale>true</latexdraw:displayYScale>
+            <latexdraw:unit>CM</latexdraw:unit>
+            <latexdraw:zoom>0.8999999999999999</latexdraw:zoom>
+            <latexdraw:magneticGridStyle>CUSTOMISED</latexdraw:magneticGridStyle>
+            <latexdraw:gridGap>20</latexdraw:gridGap>
+            <latexdraw:magneticGrid>true</latexdraw:magneticGrid>
+            <latexdraw:version>3.3.8</latexdraw:version>
+            <latexdraw:size>
+                <latexdraw:width>1554</latexdraw:width>
+                <latexdraw:height>882</latexdraw:height>
+            </latexdraw:size>
+            <latexdraw:position>
+                <latexdraw:x>0.0</latexdraw:x>
+                <latexdraw:y>0.0</latexdraw:y>
+            </latexdraw:position>
+        </latexdraw:metadata>
+    </metadata>
+</svg>
